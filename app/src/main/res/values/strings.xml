@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Whoopee</string>
+    <string name="notification">Notification</string>
+    <string name="search">Search</string>
+    <string name="casting">Casting</string>
+    <string name="home">Home</string>
+    <string name="shorts">Shorts</string>
+    <string name="create">Create</string>
+    <string name="subscriptions">Subscriptions</string>
+    <string name="you">You</string>
+</resources>

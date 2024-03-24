@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/home"
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:title="@string/shorts"
+        android:id="@+id/shorts"
+        android:icon="@drawable/ic_baseline_play_circle_outline_24"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:title="@string/create"
+        android:id="@+id/create"
+        android:icon="@drawable/ic_baseline_add_to_photos_24"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:title="@string/subscriptions"
+        android:id="@+id/subscriptions"
+        android:icon="@drawable/ic_baseline_subscriptions_24"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:title="@string/you"
+        android:id="@+id/account"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        app:showAsAction="ifRoom"/>
+
+</menu>
